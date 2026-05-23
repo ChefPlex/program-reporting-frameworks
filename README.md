@@ -25,9 +25,6 @@ These frameworks are designed to make the reporting part of the job efficient, h
 |-----------|----------------|
 | OKR Tracking Template | How to structure and report on OKRs at the program level - connecting program milestones to organizational objectives and reporting progress in a way that lands with leadership. |
 | Portfolio Health Dashboard | A framework for reporting across multiple programs simultaneously - heat maps, trend lines, and the signals that tell a portfolio owner where to focus. |
-| Steering Committee Deck Structure | A reusable deck structure for monthly or quarterly steering committee updates - what goes in, what order, and how to make the most of 30 minutes with executive stakeholders. |
-| Program Close-Out Report Template | How to formally close a program - what the deliverable looks like, what the lessons learned session should produce, and how to communicate the outcome to stakeholders. |
-| Lessons Learned Facilitation Guide | How to run a retrospective that generates real insight rather than a list of platitudes. Questions, format, and how to turn the output into something the next program team can actually use. |
 
 ---
 
@@ -40,6 +37,10 @@ These frameworks are designed to make the reporting part of the job efficient, h
 **Making an investment case:** Work through the Five Questions in the Executive Investment Framework before you write anything. If you cannot answer all five clearly, you are not ready to make the ask.
 
 **Reporting on an approved investment:** See the last section of the Executive Investment Framework on progress reporting. The metric that justified the investment is the metric you report against.
+
+**Running a steering committee:** Use the Steering Committee Deck Structure before you build the slide deck, not after. It defines what belongs in the meeting and what does not - which is as important as the format itself.
+
+**Closing a program:** The Lessons Learned Facilitation Guide gives you the structure for a retrospective that produces real insight. Run it before the team disperses. The output feeds the close-out report and the next program team.
 
 ---
 
