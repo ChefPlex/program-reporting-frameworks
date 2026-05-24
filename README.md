@@ -17,14 +17,18 @@ These frameworks are designed to make the reporting part of the job efficient, h
 | [Steering Committee Deck Structure](steering-committee-deck-structure.md) | Slide-by-slide guide for building a steering committee deck that drives decisions rather than just reporting status. Covers what each slide should answer, what does not belong in the deck, and how to run the meeting itself. |
 | [Lessons Learned Facilitation Guide](lessons-learned-facilitation-guide.md) | How to run a retrospective that generates real insight. Covers pre-work, psychological safety, facilitation structure, common failures, and how to turn the session into useful output rather than a list of platitudes. |
 
+### Examples
+
+| File | What It Shows |
+|------|--------------|
+| [Sample Red / Yellow / Green Status](examples/sample-red-yellow-green-status.md) | A weak status update vs. a complete one, with an explanation of why the difference matters for decision-making. |
+
 ---
 
 ## What Is Coming
 
-| Framework | What It Will Be |
-|-----------|----------------|
-| OKR Tracking Template | How to structure and report on OKRs at the program level - connecting program milestones to organizational objectives and reporting progress in a way that lands with leadership. |
-| Portfolio Health Dashboard | A framework for reporting across multiple programs simultaneously - heat maps, trend lines, and the signals that tell a portfolio owner where to focus. |
+- OKR tracking template
+- Portfolio health dashboard
 
 ---
 
@@ -44,6 +48,14 @@ These frameworks are designed to make the reporting part of the job efficient, h
 
 ---
 
+## Where This Breaks
+
+Reporting frameworks fail when they become performance art: clean decks, vague health colors, no ownership, and no decision asked.
+
+If the report does not change what someone knows, decides, escalates, or does next, it is probably overhead.
+
+---
+
 ## A Note on Honesty in Reporting
 
 The frameworks here are built around one principle: status reports should reflect reality, not aspiration.
@@ -57,6 +69,12 @@ Call things what they are. Yellow or Red with a path-to-green is a sign of a wel
 ## Contributing
 
 If you have a reporting framework, template, or approach that has worked in practice - open a PR or file an issue. The bar is that it has to reflect real experience, be applicable outside one organization, and be documented well enough to use without asking questions.
+
+---
+
+## Final Note
+
+These frameworks exist because vague status creates real cost. A good report does not make the program healthier by itself, but it does make the truth visible early enough to do something about it.
 
 ---
 
