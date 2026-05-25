@@ -8,6 +8,20 @@ These frameworks are designed to make the reporting part of the job efficient, h
 
 ---
 
+## Current Scope
+
+This repo is focused on reporting patterns for technical programs where clarity, trust, and decision-making matter more than slide polish.
+
+Current materials cover:
+
+- Program status reporting
+- Executive investment cases
+- Steering committee deck structure
+- Lessons learned facilitation
+- Sample Red / Yellow / Green reporting
+
+This repo is not a dashboard product and it is not a portfolio-management system. It is a set of practical reporting frameworks for TPMs who need to make program reality visible early enough for leaders to act.
+
 ## What Is Here
 
 | Framework | What It Is |
