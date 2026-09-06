@@ -71,3 +71,8 @@ Call things what they are. Yellow or Red with a path to green is a sign of a wel
 ---
 
 *Built from reporting on platform security, infrastructure, and compliance programs to engineering teams and executive leadership. Maintained by [Eric White](https://www.linkedin.com/in/edwhite) | [ChefPlex](https://github.com/ChefPlex)*
+
+## License
+
+Copyright (c) 2026 Eric White. Licensed under [CC BY 4.0](LICENSE): use it, adapt it, put it to
+work in your own program. Credit is the only condition.
