@@ -102,6 +102,8 @@ The color means something specific. Use it that way.
 
 **Never go from Green to Red without a Yellow.** If a program goes from Green to Red in a single reporting cycle without a Yellow in between, the reporting was wrong, not the program. That's a trust issue with your stakeholders that's harder to fix than the program problem itself.
 
+**Silence from a dependency owner is not a Green status.** If you have not heard back, that is the information. Either it's fine and they forgot to tell you, or it's not fine and they're hoping you won't notice. Neither of those is Green. Chase it before the report goes out, and if you can't get an answer in time, report the silence rather than the assumption you made in its place.
+
 ---
 
 ## Reporting Cadence
@@ -169,6 +171,10 @@ The short version is intentionally plain text so it survives a paste into any to
 **Inconsistent color standards.** If Yellow means something different from week to week or TPM to TPM, the color stops being a signal. Define what the colors mean for your program at the start and apply them consistently.
 
 **Late status reports.** A status report that comes out after the meeting it was meant to inform is a status report for the record, not for the decision. Get it out before people need it.
+
+**Adjectives where numbers belong.** "Encryption coverage increased significantly" tells the reader nothing they can act on. "Coverage increased from 67% to 78% this month, on track for 90% by end of quarter" gives them the rate, the remaining gap, and grounds to decide whether to worry. Numbers beat adjectives everywhere, and a status report is where the substitution costs the most.
+
+*The reasoning behind several of these is in [TPM craft notes](https://github.com/ChefPlex/learning-notes/blob/main/tpm-craft-notes.md).*
 
 ---
 
