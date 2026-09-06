@@ -2,7 +2,7 @@
 
 A status report has one job: give the right people the right information at the right time so they can make decisions. Everything else is overhead.
 
-The mistake most TPMs make is writing status reports for themselves - detailed, comprehensive, technically accurate. The mistake after that is writing them for the auditors - process-heavy, formatted to prove effort rather than communicate state. Neither serves the people who actually need to act on the information.
+The mistake most TPMs make is writing status reports for themselves - detailed, comprehensive, technically accurate. The mistake after that's writing them for the auditors - process-heavy, formatted to prove effort rather than communicate state. Neither serves the people who actually need to act on the information.
 
 This framework defines a two-tier approach: a short version for async consumption and quick triage, and a long version that gives decision-makers full context. Both are built around the same core content - you write the long version once and the short version falls out of it.
 
@@ -80,8 +80,8 @@ Designed to give a full-context picture for executive briefings, steering commit
 ```
 
 **Rules:**
-- Any 🟡 or 🔴 workstream MUST include: why it is off track + path-to-green + owner + resolution date
-- Leadership Ask is always present - N/A is fine, omitting it is not
+- Any 🟡 or 🔴 workstream MUST include: why it's off track + path-to-green + owner + resolution date
+- Leadership Ask is always present - N/A is fine, omitting it's not
 - The long version links to source docs rather than repeating raw work item lists inline
 - If chronologically stacking updates, newest entry goes at the top
 
@@ -100,7 +100,7 @@ The color means something specific. Use it that way.
 
 **The Yellow requirement:** Any Yellow or Red status must include a path-to-green with a named owner and a target date. "Working on it" is not a path-to-green. "Engineering Lead completing the dependency mapping by [date], which unblocks the implementation team to start by [date]" is a path-to-green.
 
-**Never go from Green to Red without a Yellow.** If a program goes from Green to Red in a single reporting cycle without a Yellow in between, the reporting was wrong, not the program. That is a trust issue with your stakeholders that is harder to fix than the program problem itself.
+**Never go from Green to Red without a Yellow.** If a program goes from Green to Red in a single reporting cycle without a Yellow in between, the reporting was wrong, not the program. That's a trust issue with your stakeholders that's harder to fix than the program problem itself.
 
 ---
 
@@ -130,7 +130,7 @@ Infrequent, high-signal, outcome-focused. Executives need to know three things:
 2. What is the current risk exposure and how is it trending?
 3. Is there anything that requires a decision or escalation at their level?
 
-Lead with the status and the bottom line. Put the detail in an appendix or a linked doc. An executive update that buries the status on page three is not serving its audience.
+Lead with the status and the bottom line. Put the detail in an appendix or a linked doc. An executive update that buries the status on page three isn't serving its audience.
 
 ### Operational / team audience
 
@@ -158,13 +158,13 @@ The short version is intentionally plain text so it survives a paste into any to
 
 ## Common Mistakes
 
-**Writing for yourself, not your audience.** A status report is not a journal entry or a project log. Every sentence should serve the reader's ability to understand state and take action.
+**Writing for yourself, not your audience.** A status report isn't a journal entry or a project log. Every sentence should serve the reader's ability to understand state and take action.
 
 **Burying the status.** The color and the one-line summary go at the top. Every time.
 
 **Omitting the Leadership Ask.** If you need something from leadership, say so explicitly. Hints do not get acted on. A named ask with a deadline does.
 
-**Reporting Yellow or Red without a path-to-green.** Telling leadership a program is at risk without telling them what is being done about it and by when is not useful. Come with the problem and the plan.
+**Reporting Yellow or Red without a path-to-green.** Telling leadership a program is at risk without telling them what is being done about it and by when isn't useful. Come with the problem and the plan.
 
 **Inconsistent color standards.** If Yellow means something different from week to week or TPM to TPM, the color stops being a signal. Define what the colors mean for your program at the start and apply them consistently.
 

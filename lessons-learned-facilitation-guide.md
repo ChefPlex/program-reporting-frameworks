@@ -1,8 +1,8 @@
 # Lessons Learned Facilitation Guide
 
-A lessons learned session is worth doing only if it generates honest insight. A session where everyone says things went well, nobody names what actually went wrong, and the output is a list of vague platitudes ("communication could be better") is not a lessons learned session. It is a ritual that consumes an hour and produces nothing useful.
+A lessons learned session is worth doing only if it generates honest insight. A session where everyone says things went well, nobody names what actually went wrong, and the output is a list of vague platitudes ("communication could be better") isn't a lessons learned session. It's a ritual that consumes an hour and produces nothing useful.
 
-This guide is about running the version that is actually useful - the one where people say the thing they actually think, the root causes get surfaced, and the output is specific enough that the next program team can do something with it.
+This guide is about running the version that's actually useful - the one where people say the thing they actually think, the root causes get surfaced, and the output is specific enough that the next program team can do something with it.
 
 ---
 
@@ -10,7 +10,7 @@ This guide is about running the version that is actually useful - the one where 
 
 At program close-out, before resources are released and before the team disperses. This is not optional. The further you get from the program, the hazier the memory and the lower the participation. Run it within two weeks of final delivery.
 
-For long programs, also consider a mid-program retrospective at a major milestone. You do not need to wait until the end to capture learning.
+For long programs, also consider a mid-program retrospective at a major milestone. You don't need to wait until the end to capture learning.
 
 ---
 
@@ -51,15 +51,15 @@ Read the responses before the session. They tell you where the honest conversati
 
 ## Facilitation Principles
 
-**Psychological safety is the prerequisite.** People will only say what they actually think if they believe it is safe to say it. Open the session by naming this explicitly: the goal is learning, not blame. No names attached to specific problems unless the person wants their name attached.
+**Psychological safety is the prerequisite.** People will only say what they actually think if they believe it's safe to say it. Open the session by naming this explicitly: the goal is learning, not blame. No names attached to specific problems unless the person wants their name attached.
 
 **Separate facts from opinions.** "The compliance review started too late" is a fact that can be verified against the timeline. "Leadership did not prioritize this program" is an interpretation. Both are useful, but treat them differently in the discussion.
 
 **Root causes, not symptoms.** "We were always behind schedule" is a symptom. "We underestimated the service inventory gap by 40%" is a root cause. "We had no process for escalating cross-team dependency slippage before it became a crisis" is a root cause. Push past the first-level observations.
 
-**Bias toward specificity.** "Communication could be better" is not a lesson. "Status reports went out consistently but stakeholders did not know where the document repository was until week six, which generated repeated status questions that duplicated what was already published" is a lesson. Push for the specific version of every general observation.
+**Bias toward specificity.** "Communication could be better" is not a lesson. "Status reports went out consistently but stakeholders didn't know where the document repository was until week six, which generated repeated status questions that duplicated what was already published" is a lesson. Push for the specific version of every general observation.
 
-**The facilitator does not defend.** If you are the TPM and you are also facilitating, this is hard. Something will come up that is a critique of something you did. The facilitation instinct - to explain, to defend, to provide context - works against the session. Take notes, ask clarifying questions, and address your own items in the output if needed. Do not defend in the moment.
+**The facilitator doesn't defend.** If you're the TPM and you're also facilitating, this is hard. Something will come up that's a critique of something you did. The facilitation instinct - to explain, to defend, to provide context - works against the session. Take notes, ask clarifying questions, and address your own items in the output if needed. Do not defend in the moment.
 
 ---
 
@@ -77,7 +77,7 @@ Walk through the program timeline briefly using actual data - major milestones, 
 
 ### What Worked - 20 minutes
 
-Start positive. This is not just about tone - it surfaces practices worth repeating, which is as valuable as identifying what to avoid.
+Start positive. This isn't just about tone - it surfaces practices worth repeating, which is as valuable as identifying what to avoid.
 
 **Facilitation prompt:** "What did this program do well that we should intentionally repeat on the next program?"
 
@@ -123,13 +123,13 @@ For each surprise:
 
 ### What Would You Tell the Next Team - 10 minutes
 
-**Facilitation prompt:** "If you were handing this off to a new team starting a similar program tomorrow, what is the most important thing they should know that is not obvious?"
+**Facilitation prompt:** "If you were handing this off to a new team starting a similar program tomorrow, what is the most important thing they should know that's not obvious?"
 
 This question surfaces the tacit knowledge that lives in the team's experience but is hard to extract with direct questions. Often the most practical and memorable lessons come from this prompt.
 
 ### Close - 5 minutes
 
-Summarize the key themes - do not read back everything, identify the 3-5 most important insights.
+Summarize the key themes - don't read back everything, identify the 3-5 most important insights.
 
 Name the follow-up: who is writing the close-out report, when it will be distributed, and what happens with the action items from this session.
 
@@ -144,17 +144,17 @@ Within one week of the session, produce:
 - **RAID Log Template Updates** - any risks or assumptions that came up as surprises should be added to the template so future programs start with them already logged
 - **Specific Action Items** - if the session surfaced process improvements, infrastructure investments, or tools the organization should build, assign owners and dates
 
-The summary goes into the close-out report and into whatever knowledge management system the organization uses. If the organization does not have a knowledge management system for this kind of institutional learning, that is itself a lesson worth documenting.
+The summary goes into the close-out report and into whatever knowledge management system the organization uses. If the organization doesn't have a knowledge management system for this kind of institutional learning, that's itself a lesson worth documenting.
 
 ---
 
 ## Common Facilitation Failures and How to Avoid Them
 
-**The session turns into a gripe session.** If the conversation becomes a list of complaints without root causes or recommendations, redirect: "That is a real problem - what do you think caused it and what would have prevented it?"
+**The session turns into a gripe session.** If the conversation becomes a list of complaints without root causes or recommendations, redirect: "That's a real problem - what do you think caused it and what would have prevented it?"
 
-**Nobody says anything critical.** Usually means the psychological safety is not there. Try breaking into pairs for 5 minutes and then sharing to the group - it is easier to say something critical to one person than to a room.
+**Nobody says anything critical.** Usually means the psychological safety isn't there. Try breaking into pairs for 5 minutes and then sharing to the group - it's easier to say something critical to one person than to a room.
 
-**The same person dominates.** Call explicitly on quieter team members: "We have not heard from [name] yet - what was your experience with that?"
+**The same person dominates.** Call explicitly on quieter team members: "We haven't heard from [name] yet - what was your experience with that?"
 
 **The session produces vague outputs.** Before closing each item, ask: "If a new TPM read this lesson, would they know what to do differently? If not, what would make it more specific?"
 

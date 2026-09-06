@@ -1,18 +1,18 @@
 # Steering Committee Deck Structure
 
-A steering committee is not a status meeting. It is a decision-making forum. The deck exists to give decision-makers what they need to make good decisions - not to demonstrate program activity, not to prove the TPM is working hard, and not to give engineers an audience for technical deep dives.
+A steering committee exists to close decisions. If nobody had to decide anything, it should have been an email. The deck's job is to get people to the decision, which means most of what you want to put in it doesn't belong: the activity summary, the proof you've been busy, the deep dive an engineer wants to give.
 
-If the steering committee ends without anyone having made a decision or taken an action, something went wrong. Either you did not bring them a real decision, or the deck buried the decision under so much status information that nobody got to it.
+If the meeting ends and nobody decided anything or took an action, something went wrong. Either you didn't bring them a real decision, or the deck buried it under so much status that nobody got there.
 
-This guide covers how to structure a steering committee deck that actually serves its purpose.
+This guide covers how to structure the deck so that doesn't happen.
 
 ---
 
 ## The Core Principle
 
-Executives in a steering committee have limited time and high cognitive load. They are thinking about twenty things before your program and twenty things after it. Your job is to give them a clean signal - what is the current state, what decisions are needed, and what do they need to do - in a format they can process in 30 minutes.
+Executives in a steering committee have limited time and high cognitive load. They're thinking about twenty things before your program and twenty things after it. Your job is to give them a clean signal - what is the current state, what decisions are needed, and what do they need to do - in a format they can process in 30 minutes.
 
-Every slide should earn its place by answering a question an executive would actually ask. If you cannot articulate the question a slide answers, the slide does not belong in the deck.
+Every slide should earn its place by answering a question an executive would actually ask. If you can't articulate the question a slide answers, the slide doesn't belong in the deck.
 
 ---
 
@@ -61,7 +61,7 @@ Show movement against the Definition of Done. Not activity - outcomes.
 |-----------|-------|-------------|-----------------|--------|
 | | | | | Green / Yellow / Red |
 
-**Design principle:** Show the dates, show the current forecast, show the status. Do not hide slippage - it will come out eventually and it is better to present it with context and a plan than to have it surface as a surprise.
+**Design principle:** Show the dates, show the current forecast, show the status. Don't hide slippage - it will come out eventually and it's better to present it with context and a plan than to have it surface as a surprise.
 
 ---
 
@@ -126,7 +126,7 @@ The reason the steering committee exists. Be explicit.
 | Vendor | | | | | |
 | Total | | | | | |
 
-**Design principle:** Keep this brief unless there is a variance to explain. If the program is tracking to budget, this slide should take 60 seconds to cover. If there is a variance, explain it clearly and present a reforecast.
+**Design principle:** Keep this brief unless there's a variance to explain. If the program is tracking to budget, this slide should take 60 seconds to cover. If there's a variance, explain it clearly and present a reforecast.
 
 ---
 
@@ -144,7 +144,7 @@ The reason the steering committee exists. Be explicit.
 
 ## What Does Not Belong in a Steering Committee Deck
 
-**Sprint velocity and story points.** Executives do not know what these mean and do not need to. Convert to milestone progress or outcome metrics.
+**Sprint velocity and story points.** Executives don't know what these mean and don't need to. Convert to milestone progress or outcome metrics.
 
 **Engineering architecture diagrams.** If the committee needs to understand a technical decision, describe it in business terms. The architecture diagram belongs in the working-level design review.
 
@@ -160,7 +160,7 @@ The reason the steering committee exists. Be explicit.
 
 **Distribute the deck 24-48 hours in advance.** Steering committee members should come prepared, not be reading the deck for the first time on the call. A pre-read note identifying the key decisions for the session helps them prioritize.
 
-**Know what you are asking for.** Every steering committee should have a clear ask. Even if the ask is "no decisions needed this session, we are here to update you and answer questions," know that going in.
+**Know what you're asking for.** Every steering committee should have a clear ask. Even if the ask is "no decisions needed this session, we're here to update you and answer questions," know that going in.
 
 **Prepare for the hard questions.** If your program is Yellow or Red, know what the executive is going to ask and have a direct answer ready. "We are working on it" is not an answer.
 
@@ -170,7 +170,7 @@ The reason the steering committee exists. Be explicit.
 
 **Do not read the slides.** The committee has the deck. Walk them through the highlights and spend the time on discussion, not narration.
 
-**Lead with the status and the decisions.** Do not save the important things for the end of the meeting. Put the key decisions and any Yellow or Red status first.
+**Lead with the status and the decisions.** Don't save the important things for the end of the meeting. Put the key decisions and any Yellow or Red status first.
 
 **Capture decisions and actions in real time.** Have someone taking notes. Before the meeting ends, read back the decisions made and the actions assigned. Confirm owners and due dates out loud.
 

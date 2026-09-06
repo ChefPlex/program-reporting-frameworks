@@ -16,7 +16,7 @@ The investment case for a security or infrastructure program has to make that ma
 
 ## Framework: The Five Questions
 
-Every executive investment request for a security or infrastructure program should answer five questions. If you cannot answer all five clearly, you are not ready to make the ask.
+Every executive investment request for a security or infrastructure program should answer five questions. If you can't answer all five clearly, you aren't ready to make the ask.
 
 ### 1. What is the risk?
 
@@ -26,7 +26,7 @@ Not: "Our encryption coverage is insufficient."
 
 Yes: "37% of our platform services are transmitting data without encryption in transit. Any of those services represents a potential data exposure path. In the last 18 months, three peer companies have reported breaches attributed to unencrypted internal traffic interception."
 
-Risk has three components: what could happen, how likely it is, and what the impact would be. Give executives all three.
+Risk has three components: what could happen, how likely it's, and what the impact would be. Give executives all three.
 
 ### 2. What does it cost if we do nothing?
 
@@ -42,13 +42,13 @@ Potential costs of inaction for security and infrastructure programs:
 
 ### 3. What are we asking for?
 
-Be specific and complete. Executive sponsors who get surprised by scope or cost mid-program do not stay sponsors.
+Be specific and complete. Executive sponsors who get surprised by scope or cost mid-program don't stay sponsors.
 
 The ask should include:
 - Engineering headcount (named roles and allocations, not just FTEs)
 - Timeline with key milestones
 - Budget (tooling, licensing, vendor costs)
-- What you are asking them to do personally (air cover, escalation authority, specific decisions)
+- What you're asking them to do personally (air cover, escalation authority, specific decisions)
 
 ### 4. What does success look like?
 
@@ -60,7 +60,7 @@ Yes: "100% encryption in transit across all platform services by Q3. Measured by
 
 ### 5. What is the risk of the program itself?
 
-Every investment has execution risk. Acknowledge it and show you have a plan. Executives who feel like they are being sold a sure thing will be skeptical. Executives who feel like the TPM has thought through what could go wrong and has a plan will be more confident.
+Every investment has execution risk. Acknowledge it and show you have a plan. Executives who feel like they're being sold a sure thing will be skeptical. Executives who feel like the TPM has thought through what could go wrong and has a plan will be more confident.
 
 Typical program risks to address:
 - Engineering team capacity and competing priorities
@@ -108,7 +108,7 @@ Keep it to one page if you can. Put supporting detail in an appendix.
 
 ## Compliance-Driven Programs
 
-Compliance-driven programs have a different investment structure because the question is not whether to do it - it is how much to invest and how fast to move.
+Compliance-driven programs have a different investment structure because the question isn't whether to do it - it's how much to invest and how fast to move.
 
 For compliance programs, lead with the regulatory obligation: what framework applies, what the specific requirement is, what the penalty exposure is, and what the timeline is. That frames the investment not as a choice but as a constraint.
 
@@ -126,13 +126,13 @@ Let the executive choose. Your job is to make sure the options are real and the 
 
 ## Reporting Investment Progress to Executives
 
-Once the investment is approved, executives need to see that it is being deployed effectively. They funded the program - they want to know it is working.
+Once the investment is approved, executives need to see that it's being deployed effectively. They funded the program - they want to know it's working.
 
 Executive investment reporting should show:
 
 **Progress against the investment thesis.** If the investment case said we would achieve X% coverage by Y date, report against that metric. Not sprint velocity, not story points - the number that justified the investment.
 
-**Risk trend.** Is the security risk declining as planned? Show it. A graph of vulnerability count over time, encryption coverage by quarter, or MFA adoption rate tells a story that bullet points cannot.
+**Risk trend.** Is the security risk declining as planned? Show it. A graph of vulnerability count over time, encryption coverage by quarter, or MFA adoption rate tells a story that bullet points can't.
 
 **Budget pacing.** Is spend tracking to forecast? Surprises here erode trust fast. Flag variances early with an explanation and a revised forecast.
 
@@ -148,9 +148,9 @@ Executive investment reporting should show:
 
 **Omitting the cost of inaction.** This is the most common gap. Without it, the investment looks like a cost with no alternative. With it, it looks like risk management.
 
-**Vague success criteria.** "Improve our security posture" is not a success criterion. It cannot be measured, reported against, or celebrated when achieved. Make it specific.
+**Vague success criteria.** "Improve our security posture" isn't a success criterion. It cannot be measured, reported against, or celebrated when achieved. Make it specific.
 
-**Burying the ask.** The executive needs to know what they are deciding. Put it at the top or the bottom - not in the middle.
+**Burying the ask.** The executive needs to know what they're deciding. Put it at the top or the bottom - not in the middle.
 
 **Not asking for what you actually need.** If you need the executive to personally call the VP of Engineering to unblock a dependency, say so. That is a legitimate ask. Hinting at it is not the same thing.
 
