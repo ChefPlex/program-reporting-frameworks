@@ -26,7 +26,7 @@ Not: "Our encryption coverage is insufficient."
 
 Yes: "37% of our platform services are transmitting data without encryption in transit. Any of those services represents a potential data exposure path. In the last 18 months, three peer companies have reported breaches attributed to unencrypted internal traffic interception."
 
-Risk has three components: what could happen, how likely it's, and what the impact would be. Give executives all three.
+Risk has three components: what could happen, how likely it is, and what the impact would be. Give executives all three.
 
 ### 2. What does it cost if we do nothing?
 
