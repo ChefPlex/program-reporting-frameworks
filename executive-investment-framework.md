@@ -56,7 +56,9 @@ Define it with numbers. Vague objectives do not get funded and cannot be reporte
 
 Not: "Significantly improve our encryption posture."
 
-Yes: "100% encryption in transit across all platform services by Q3. Measured by quarterly audit of service-to-service communication logs. Baseline today is 63%."
+Yes: "100% encryption in transit across all platform services by Q3. Measured by quarterly audit of service-to-service communication logs. Baseline today is 63%. Done-enough rule: if the last services have no workable path, the sponsor may formally scope them out at the Q3 review, with each one named, its residual risk recorded and a compensating control in place. Anything short of 100% is closed only by that decision, never by the program going quiet."
+
+A target without a done-enough rule has no honest way to stop short of the number, and large programs often do. Deciding the rule at funding time is what keeps the ending a decision rather than a drift.
 
 ### 5. What is the risk of the program itself?
 

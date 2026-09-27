@@ -100,7 +100,7 @@ The color means something specific. Use it that way.
 
 **The Yellow requirement:** Any Yellow or Red status must include a path-to-green with a named owner and a target date. "Working on it" is not a path-to-green. "Engineering Lead completing the dependency mapping by [date], which unblocks the implementation team to start by [date]" is a path-to-green.
 
-**Never go from Green to Red without a Yellow.** If a program goes from Green to Red in a single reporting cycle without a Yellow in between, the reporting was wrong, not the program. That's a trust issue with your stakeholders that's harder to fix than the program problem itself.
+**Never go from Green to Red without a Yellow.** If a program goes from Green to Red in a single reporting cycle without a Yellow in between, the reporting was wrong, not the program. That's a trust issue with your stakeholders that's harder to fix than the program problem itself. The exception is an external event nobody could have seen in the previous cycle - a vendor failure, a new regulatory ruling, an incident. When that happens, say so in the report: name the event and when it occurred, so the jump reads as news rather than as a reporting failure.
 
 **Silence from a dependency owner is not a Green status.** If you have not heard back, that is the information. Either it's fine and they forgot to tell you, or it's not fine and they're hoping you won't notice. Neither of those is Green. Chase it before the report goes out, and if you can't get an answer in time, report the silence rather than the assumption you made in its place.
 
@@ -173,6 +173,18 @@ The short version is intentionally plain text so it survives a paste into any to
 **Late status reports.** A status report that comes out after the meeting it was meant to inform is a status report for the record, not for the decision. Get it out before people need it.
 
 **Adjectives where numbers belong.** "Encryption coverage increased significantly" tells the reader nothing they can act on. "Coverage increased from 67% to 78% this month, on track for 90% by end of quarter" gives them the rate, the remaining gap, and grounds to decide whether to worry. Numbers beat adjectives everywhere, and a status report is where the substitution costs the most.
+
+**Numbers with no source.** A number is only as good as the reader's ability to check it. Every number in a status report carries three things: its **source** (the system it came from), an **as-of time**, and the **method** (what was counted and how). "78% of services encrypted (source: fleet scanner, as of Monday 09:00 UTC, services with all listeners on TLS 1.2+ out of all services in the inventory)" can be checked. "78%" cannot. Derive the number from the system of record each time rather than copying it forward from last week's report, because a restated number goes stale silently and nobody notices until two reports disagree.
+
+---
+
+## Reporting an AI Workstream
+
+AI work breaks some of the usual reporting habits. Three adjustments:
+
+- **Report reuse, not usage.** Logins and prompt counts rise under any mandate, whether or not the work changed. Report how many people came back to the same workflow and what it replaced.
+- **Report the spread, not one run.** The same AI task run twice gives different results. An accuracy or quality figure from a single run is an anecdote. Run it several times and report the range alongside the average.
+- **An AI-drafted status must say what it did not read.** If a model summarized channels, tickets or documents into the report, state its coverage: which sources it read, which it skipped or truncated, and the time window. A confident summary of half the inputs reads exactly like a summary of all of them.
 
 *The reasoning behind several of these is in [TPM craft notes](https://github.com/ChefPlex/learning-notes/blob/main/tpm-craft-notes.md).*
 
