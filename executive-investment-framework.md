@@ -24,7 +24,9 @@ Be specific. Quantify where possible. Connect it to something the executive alre
 
 Not: "Our encryption coverage is insufficient."
 
-Yes: "37% of our platform services are transmitting data without encryption in transit. Any of those services represents a potential data exposure path. In the last 18 months, three peer companies have reported breaches attributed to unencrypted internal traffic interception."
+Yes: "37% of our platform services are transmitting data without encryption in transit. Any of those services represents a potential data exposure path. In the last 18 months, three peer companies have reported breaches attributed to unencrypted internal traffic interception (source: [named breach disclosures, with dates])."
+
+The figures in these examples are illustrative. Replace them with your own numbers, and name the source for every external claim.
 
 Risk has three components: what could happen, how likely it is, and what the impact would be. Give executives all three.
 
@@ -34,7 +36,8 @@ This is the number most investment cases skip. Do not skip it.
 
 Potential costs of inaction for security and infrastructure programs:
 
-- **Regulatory penalties** - GDPR, HIPAA, PCI fines are quantifiable. Look them up and cite them.
+- **Regulatory penalties** - GDPR and HIPAA penalty tiers are public. Look them up and cite them.
+- **Contractual penalties** - PCI DSS is not a regulation. Non-compliance fines are set by the card brands and passed through your acquiring bank, so there is no public schedule to cite. Check your merchant agreement or ask your acquirer.
 - **Audit findings** - A finding that requires remediation after the fact almost always costs more than building it correctly the first time.
 - **Breach costs** - IBM and Ponemon publish annual breach cost studies. Use them as benchmarks.
 - **Technical debt** - The longer an infrastructure problem runs, the more expensive it becomes to fix. Quantify the compound cost.

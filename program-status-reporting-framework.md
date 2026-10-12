@@ -2,7 +2,7 @@
 
 A status report has one job: give the right people the right information at the right time so they can make decisions. Everything else is overhead.
 
-The mistake most TPMs make is writing status reports for themselves - detailed, comprehensive, technically accurate. The mistake after that's writing them for the auditors - process-heavy, formatted to prove effort rather than communicate state. Neither serves the people who actually need to act on the information.
+The mistake most TPMs make is writing status reports for themselves - detailed, comprehensive, technically accurate. The mistake after that is writing them for the auditors - process-heavy, formatted to prove effort rather than communicate state. Neither serves the people who actually need to act on the information.
 
 This framework defines a two-tier approach: a short version for async consumption and quick triage, and a long version that gives decision-makers full context. Both are built around the same core content - you write the long version once and the short version falls out of it.
 
@@ -81,7 +81,7 @@ Designed to give a full-context picture for executive briefings, steering commit
 
 **Rules:**
 - Any 🟡 or 🔴 workstream MUST include: why it's off track + path-to-green + owner + resolution date
-- Leadership Ask is always present - N/A is fine, omitting it's not
+- Leadership Ask is always present - N/A is fine, omitting it is not
 - The long version links to source docs rather than repeating raw work item lists inline
 - If chronologically stacking updates, newest entry goes at the top
 
