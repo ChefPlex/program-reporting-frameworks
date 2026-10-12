@@ -71,7 +71,7 @@ Welcome the team, name the purpose, and establish the ground rules:
 - This session is about learning, not judgment
 - All observations are valid - there is no wrong answer
 - We are looking for root causes, not symptoms
-- What is said in this session stays in this session; the output will be anonymized
+- Nothing said here is attributed to a person; themes go into the close-out report
 
 Walk through the program timeline briefly using actual data - major milestones, key decision points, when the program was Green / Yellow / Red and why. This resets everyone's memory from "how I remember it" to "what actually happened."
 

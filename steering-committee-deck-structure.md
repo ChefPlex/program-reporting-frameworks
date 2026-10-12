@@ -74,7 +74,7 @@ The slide most executives want to spend the most time on - and the one most TPMs
 - Active issues requiring steering committee awareness or decision
 - Risks that were closed since last steering committee
 
-| Risk / Issue | Type | Rating | Status | Mitigation | Owner | Escalation Needed? |
+| Risk / Issue | Type | Probability / Impact | Status | Mitigation | Owner | Escalation Needed? |
 |-------------|------|--------|--------|-----------|-------|-------------------|
 | | | | | | | Yes / No |
 

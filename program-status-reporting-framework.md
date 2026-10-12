@@ -18,9 +18,9 @@ Designed to be read in 30 seconds. Works in Slack, email, a dashboard cell, or a
 [PROGRAM NAME] | [REPORTING PERIOD] | Status: 🟡 At Risk
 
 Highlights:
-• [Workstream A] — [one-line status + ETA if relevant]
-• [Workstream B] — [one-line status + ETA if relevant]
-• [Workstream C] — [one-line status + ETA if relevant]
+• 🟢 [Workstream A] -- [one-line status + ETA if relevant]
+• 🟡 [Workstream B] -- [one-line status + ETA if relevant]
+• 🟢 [Workstream C] -- [one-line status + ETA if relevant]
 
 Risks / Blockers: [one line or "None"]
 Leadership Ask: [one line or "None"]
@@ -186,7 +186,7 @@ AI work breaks some of the usual reporting habits. Three adjustments:
 - **Report the spread, not one run.** The same AI task run twice gives different results. An accuracy or quality figure from a single run is an anecdote. Run it several times and report the range alongside the average.
 - **An AI-drafted status must say what it did not read.** If a model summarized channels, tickets or documents into the report, state its coverage: which sources it read, which it skipped or truncated, and the time window. A confident summary of half the inputs reads exactly like a summary of all of them.
 
-*The reasoning behind several of these is in [TPM craft notes](https://github.com/ChefPlex/learning-notes/blob/main/tpm-craft-notes.md).*
+*The reasoning behind the first of these, reuse over usage, is in [TPM craft notes](https://github.com/ChefPlex/learning-notes/blob/main/tpm-craft-notes.md).*
 
 ---
 

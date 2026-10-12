@@ -48,7 +48,7 @@ This isn't a dashboard product or a portfolio-management system. It's a set of r
 
 **Running a steering committee:** Use the Steering Committee Deck Structure before you build the slide deck, not after. It defines what belongs in the meeting and what doesn't, which is as important as the format itself.
 
-**Closing a program:** The Lessons Learned Facilitation Guide gives you the structure for a retrospective that produces real insight. Run it before the team disperses. The output feeds the close-out report and the next program team.
+**Closing a program:** The Lessons Learned Facilitation Guide gives you the structure for a retrospective that produces real insight. Run it before the team disperses. The output feeds the [close-out report](https://github.com/ChefPlex/tpm-templates/blob/main/program-close-out-report-template.md) and the next program team.
 
 ---
 

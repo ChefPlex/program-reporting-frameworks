@@ -32,7 +32,7 @@ There is no decision here, only a status with a worry attached. The committee ca
 >
 > **Recommendation:** Option A for the 4 customer-facing services (real external exposure); Option B for the 8 internal-only services (low exposure, audit-acceptable with compensating controls). This concentrates the reprioritization cost where the risk actually is and avoids over-rotating the Identity team for internal services.
 >
-> **Cost of not deciding today:** Every week of delay past February 13 removes Option A. After that, only B (finding open through the audit) or C (higher cost, ramp risk) remain.
+> **Cost of not deciding today:** Any delay past February 13 removes Option A. After that, only B (finding open through the audit) or C (higher cost, ramp risk) remain.
 
 ### Why This Works
 

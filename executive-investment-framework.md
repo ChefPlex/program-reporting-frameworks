@@ -39,7 +39,7 @@ Potential costs of inaction for security and infrastructure programs:
 - **Regulatory penalties** - GDPR and HIPAA penalty tiers are public. Look them up and cite them.
 - **Contractual penalties** - PCI DSS is not a regulation. Non-compliance fines are set by the card brands and passed through your acquiring bank, so there is no public schedule to cite. Check your merchant agreement or ask your acquirer.
 - **Audit findings** - A finding that requires remediation after the fact almost always costs more than building it correctly the first time.
-- **Breach costs** - IBM and Ponemon publish annual breach cost studies. Use them as benchmarks.
+- **Breach costs** - IBM publishes an annual Cost of a Data Breach Report, with the research done by the Ponemon Institute. Use them as benchmarks.
 - **Technical debt** - The longer an infrastructure problem runs, the more expensive it becomes to fix. Quantify the compound cost.
 - **Competitive risk** - Security posture is increasingly a customer evaluation criterion. Quantify what a trust incident would cost in customer terms.
 
@@ -123,7 +123,7 @@ Then give the executive two or three options with different cost and risk profil
 |--------|---------|------|----------|------|
 | Option A | Full compliance by deadline | Higher | Faster | Lower - meets requirement |
 | Option B | Phased compliance with interim controls | Medium | Staged | Medium - some risk window |
-| Option C | Minimum viable compliance | Lower | Slower | Higher - audit exposure |
+| Option C | Minimum viable compliance | Lower | Cited requirement by the deadline, the rest deferred | Higher - audit exposure on the deferred scope |
 
 Let the executive choose. Your job is to make sure the options are real and the risks are honest.
 
