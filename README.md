@@ -76,3 +76,7 @@ Call things what they are. Yellow or Red with a path to green is a sign of a wel
 
 Copyright (c) 2026 Eric White. Licensed under [CC BY 4.0](LICENSE): use it, adapt it, put it to
 work in your own program. Credit is the only condition.
+
+---
+
+**Part of the ChefPlex TPM portfolio** · Status: Active · [I need to… find the right document across all the repositories](https://github.com/ChefPlex/tpm-templates/blob/main/PORTFOLIO-GUIDE.md) · [All repositories](https://github.com/ChefPlex)
