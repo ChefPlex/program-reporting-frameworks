@@ -16,13 +16,14 @@ Reporting patterns for technical programs, where clarity and trust matter more t
 - Lessons learned facilitation
 - Sample Red / Yellow / Green reporting
 
-This isn't a dashboard product or a portfolio-management system. It's a set of reporting patterns for TPMs who need program reality visible early enough for someone to act on it.
+This isn't a dashboard product or a portfolio-management system. It's a set of reporting patterns for TPMs who need program reality visible early enough for someone to act on it, for one program or, with the roll-up template, for several reported together.
 
 ## What Is Here
 
 | Framework | What It Is |
 |-----------|-----------|
 | [Program Status Reporting Framework](program-status-reporting-framework.md) | A two-tier status report model - short version for async triage, long version for full context. Includes status color definitions, cadence guidance, executive vs. operational reporting, and the most common mistakes. |
+| [Portfolio Roll-Up: Reporting Across Programs](portfolio-roll-up-template.md) | One page for a leader who owns several programs, built on top of the single-program framework. The aggregation rules (never average colors; show the distribution; confidence separate from status; trend only with the prior value; a missing report is never Green; flag disagreement rather than re-scoring), cross-program dependencies, the fill-in page, and a worked example. Grounded in the US GAO's 2026 review of federal IT investment ratings. |
 | [Executive Investment Framework](executive-investment-framework.md) | How to build and present an investment case for a security or infrastructure program. Covers the five questions every investment case must answer, how to structure a compliance-driven request, and how to report on investment progress once approved. |
 | [Steering Committee Deck Structure](steering-committee-deck-structure.md) | Slide-by-slide guide for building a steering committee deck that drives decisions rather than just reporting status. Covers what each slide should answer, what does not belong in the deck, and how to run the meeting itself. |
 | [Lessons Learned Facilitation Guide](lessons-learned-facilitation-guide.md) | How to run a retrospective that generates real insight. Covers pre-work, psychological safety, facilitation structure, common failures, and how to turn the session into useful output rather than a list of platitudes. |
