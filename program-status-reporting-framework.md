@@ -47,7 +47,7 @@ Designed to give a full-context picture for executive briefings, steering commit
 
 ## Highlights
 * 🟢 [Workstream A] -- [1-2 sentences: what happened, what is next, ETA]
-* 🟡 [Workstream B] -- [1-2 sentences + why it is at risk + path-to-green with owner and date]
+* 🟡 [Workstream B] -- [1-2 sentences + why it is at risk + path-to-green with owner and date, or when you expect to have a date]
 * 🔴 [Workstream C] -- [1-2 sentences + revised plan and timeline]
 
 ---
@@ -67,6 +67,12 @@ Designed to give a full-context picture for executive briefings, steering commit
 
 ---
 
+## Coming Up (next two weeks)
+* [What is planned, and the milestones due]
+* [Dependencies at risk, and who owns each]
+
+---
+
 ## Leadership Ask
 * [Specific ask with owner and deadline] OR N/A
 
@@ -80,7 +86,7 @@ Designed to give a full-context picture for executive briefings, steering commit
 ```
 
 **Rules:**
-- Any 🟡 or 🔴 workstream MUST include: why it's off track + path-to-green + owner + resolution date
+- Any 🟡 or 🔴 workstream includes: why it's off track + path-to-green + owner + resolution date. If it is too early for a firm date, say when you expect to have one
 - Leadership Ask is always present - N/A is fine, omitting it is not
 - The long version links to source docs rather than repeating raw work item lists inline
 - If chronologically stacking updates, newest entry goes at the top
@@ -94,11 +100,11 @@ The color means something specific. Use it that way.
 | Color | Definition | What the reader should expect |
 |-------|-----------|-------------------------------|
 | 🟢 Green | On track. No action needed. | Nothing to do here this week |
-| 🟡 Yellow | At risk. Specific issue identified, mitigation in progress. May need support. | Read the notes, may need to engage |
+| 🟡 Yellow | At risk. Specific issue identified, with a named owner running it down. May need support. | Read the notes, may need to engage |
 | 🔴 Red | Off track. Leadership attention required. | Needs a decision or intervention now |
 | 🔵 Blue | Complete. Workstream or milestone finished. | Informational - no action needed |
 
-**The Yellow requirement:** Any Yellow or Red status must include a path-to-green with a named owner and a target date. "Working on it" is not a path-to-green. "Engineering Lead completing the dependency mapping by [date], which unblocks the implementation team to start by [date]" is a path-to-green.
+**The Yellow requirement:** Any Yellow or Red status includes a path-to-green with a named owner running it down and a date to get back to green. If it is too early for a firm date, say when you expect to have one. Early dates are estimates and may move. "Working on it" is not a path-to-green. "Engineering Lead completing the dependency mapping by [date], which unblocks the implementation team to start by [date]" is a path-to-green.
 
 **Never go from Green to Red without a Yellow.** If a program goes from Green to Red in a single reporting cycle without a Yellow in between, the reporting was wrong, not the program. That's a trust issue with your stakeholders that's harder to fix than the program problem itself. The exception is an external event nobody could have seen in the previous cycle - a vendor failure, a new regulatory ruling, an incident. When that happens, say so in the report: name the event and when it occurred, so the jump reads as news rather than as a reporting failure.
 
