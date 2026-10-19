@@ -11,12 +11,14 @@ Reporting is overhead, and it's also the only part of the program most of your s
 Reporting patterns for technical programs, where clarity and trust matter more than slide polish.
 
 - Program status reporting
+- Portfolio roll-up across programs
 - Executive investment cases
 - Steering committee deck structure
 - Lessons learned facilitation
 - Sample Red / Yellow / Green reporting
+- Sample steering committee decision
 
-This isn't a dashboard product or a portfolio-management system. It's a set of reporting patterns for TPMs who need program reality visible early enough for someone to act on it, for one program or, with the roll-up template, for several reported together.
+It is a set of reporting patterns for TPMs who need program reality visible early enough for someone to act on it, for one program or, with the roll-up template, for several reported together.
 
 ## What Is Here
 
