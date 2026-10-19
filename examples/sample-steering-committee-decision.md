@@ -70,6 +70,6 @@ The most common steering-committee failure is not a bad decision. It is arriving
 
 ---
 
-*Part of the [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) repo. See the [Steering Committee Deck Structure](../steering-committee-deck-structure.md) for the full model; this example fills Slide 5, Decisions Required. Dates, dollar figures, and team names are illustrative - sanitize to your context before use.*
+*Part of the [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) repo. See the [Steering Committee Deck Structure](../steering-committee-deck-structure.md) for the full model; this example fills Slide 2, Decisions Required. Dates, dollar figures, and team names are illustrative - sanitize to your context before use.*
 
 *Version 1.0. Propose changes via pull request.*

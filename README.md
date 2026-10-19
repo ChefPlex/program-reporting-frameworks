@@ -35,7 +35,7 @@ It is a set of reporting patterns for TPMs who need program reality visible earl
 | File | What It Shows |
 |------|--------------|
 | [Sample Red / Yellow / Green Status](examples/sample-red-yellow-green-status.md) | A weak status update vs. a complete one, with an explanation of why the difference matters for decision-making. |
-| [Sample Steering Committee Decision](examples/sample-steering-committee-decision.md) | A weak decision item vs. a decision the committee can actually make, plus the recorded outcome and the five questions every steering decision must answer. Fills Slide 5 of the Steering Committee Deck Structure. |
+| [Sample Steering Committee Decision](examples/sample-steering-committee-decision.md) | A weak decision item vs. a decision the committee can actually make, plus the recorded outcome and the five questions every steering decision must answer. Fills Slide 2 of the Steering Committee Deck Structure. |
 
 ---
 

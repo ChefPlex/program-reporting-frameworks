@@ -32,7 +32,26 @@ The executive summary. This slide should be able to stand alone.
 
 ---
 
-### Slide 2: Progress Against Objectives
+### Slide 2: Decisions Required
+
+The reason the steering committee exists, so it comes right after the status. Be explicit.
+
+**For each decision needed:**
+- What the decision is
+- Why it needs to be made at this level
+- What options the committee is choosing between
+- The recommendation (if you have one) and the reasoning
+- The consequence of not deciding
+
+| Decision | Options | Recommendation | Why Now | Owner |
+|---------|---------|---------------|---------|-------|
+| | | | | |
+
+**Design principle:** Never walk into a steering committee without knowing what decisions you need. If there are no decisions this period, say so explicitly - "no decisions required this period" is valid and gives the committee time to ask questions rather than manufacture decisions.
+
+---
+
+### Slide 3: Progress Against Objectives
 
 Show movement against the Definition of Done. Not activity - outcomes.
 
@@ -49,7 +68,7 @@ Show movement against the Definition of Done. Not activity - outcomes.
 
 ---
 
-### Slide 3: Schedule and Milestone Health
+### Slide 4: Schedule and Milestone Health
 
 **Contents:**
 - Current milestone status across workstreams
@@ -65,7 +84,7 @@ Show movement against the Definition of Done. Not activity - outcomes.
 
 ---
 
-### Slide 4: Risks and Issues
+### Slide 5: Risks and Issues
 
 The slide most executives want to spend the most time on - and the one most TPMs under-invest in.
 
@@ -79,25 +98,6 @@ The slide most executives want to spend the most time on - and the one most TPMs
 | | | | | | | Yes / No |
 
 **Design principle:** The steering committee should see risks before they become issues. If a risk only shows up on this slide after it has materialized into a problem, the reporting was too slow. Yellow and Red risks belong here while they are still manageable.
-
----
-
-### Slide 5: Decisions Required
-
-The reason the steering committee exists. Be explicit.
-
-**For each decision needed:**
-- What the decision is
-- Why it needs to be made at this level
-- What options the committee is choosing between
-- The recommendation (if you have one) and the reasoning
-- The consequence of not deciding
-
-| Decision | Options | Recommendation | Why Now | Owner |
-|---------|---------|---------------|---------|-------|
-| | | | | |
-
-**Design principle:** Never walk into a steering committee without knowing what decisions you need. If there are no decisions this period, say so explicitly - "no decisions required this period" is valid and gives the committee time to ask questions rather than manufacture decisions.
 
 ---
 
