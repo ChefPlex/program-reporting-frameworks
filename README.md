@@ -14,7 +14,6 @@ Reporting patterns for technical programs, where clarity and trust matter more t
 - Portfolio roll-up across programs
 - Executive investment cases
 - Steering committee deck structure
-- Lessons learned facilitation
 - Sample Red / Yellow / Green reporting
 - Sample steering committee decision
 
@@ -28,7 +27,6 @@ It is a set of reporting patterns for TPMs who need program reality visible earl
 | [Portfolio Roll-Up: Reporting Across Programs](portfolio-roll-up-template.md) | One page for a leader who owns several programs, built on top of the single-program framework. The aggregation rules (never average colors; show the distribution; confidence separate from status; trend only with the prior value; a missing report is never Green; flag disagreement rather than re-scoring), cross-program dependencies, the fill-in page, and a worked example. Grounded in the US GAO's 2026 review of federal IT investment ratings. |
 | [Executive Investment Framework](executive-investment-framework.md) | How to build and present an investment case for a security or infrastructure program. Covers the five questions every investment case must answer, how to structure a compliance-driven request, and how to report on investment progress once approved. |
 | [Steering Committee Deck Structure](steering-committee-deck-structure.md) | Slide-by-slide guide for building a steering committee deck that drives decisions rather than just reporting status. Covers what each slide should answer, what does not belong in the deck, and how to run the meeting itself. |
-| [Lessons Learned Facilitation Guide](lessons-learned-facilitation-guide.md) | How to run a retrospective that generates real insight. Covers pre-work, psychological safety, facilitation structure, common failures, and how to turn the session into useful output rather than a list of platitudes. |
 
 ### Examples
 
@@ -51,7 +49,7 @@ It is a set of reporting patterns for TPMs who need program reality visible earl
 
 **Running a steering committee:** Use the Steering Committee Deck Structure before you build the slide deck, not after. It defines what belongs in the meeting and what doesn't, which is as important as the format itself.
 
-**Closing a program:** The Lessons Learned Facilitation Guide gives you the structure for a retrospective that produces real insight. Run it before the team disperses. The output feeds the [close-out report](https://github.com/ChefPlex/tpm-templates/blob/main/program-close-out-report-template.md) and the next program team.
+**Closing a program:** The [Lessons Learned Facilitation Guide](https://github.com/ChefPlex/tpm-templates/blob/main/lessons-learned-facilitation-guide.md) and the [close-out report](https://github.com/ChefPlex/tpm-templates/blob/main/program-close-out-report-template.md) are in tpm-templates, with the other documents a program produces.
 
 ---
 
