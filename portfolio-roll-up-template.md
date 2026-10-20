@@ -137,11 +137,11 @@ Two kinds of item belong here:
 
 For each one, write one line with four parts: **what is needed, by when, the owner on each side, and what happens if it slips.**
 
-**Weak:** "Some dependency concerns between Identity and Encryption."
+**Unknown:** "Some dependency concerns between Identity and Encryption."
 
-**Better:** "Identity Migration and Encryption Coverage both plan on the platform networking team for the whole of March. The team can support one. Owners: Sarah (Identity), Priya (Encryption). If unresolved by March 13, one program loses its April date. Ask: sponsor to pick the order."
+**Actionable:** "Identity Migration and Encryption Coverage both plan on the platform networking team for the whole of March. The team can support one. Owners: Sarah (Identity), Priya (Encryption). If unresolved by March 13, one program loses its April date. Ask: sponsor to pick the order."
 
-The weak line is true and useless. The better line names the collision, the owners, the deadline and the decision, so the leader can settle it in one conversation.
+The unknown line is true and useless. The actionable line names the collision, the owners, the deadline and the decision, so the leader can settle it in one conversation.
 
 These items feed directly into Slide 6, Dependencies and Cross-Functional Items, of the [Steering Committee Deck Structure](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/steering-committee-deck-structure.md). The portfolio page is the input to a cross-program steering slide, not a substitute for one.
 
@@ -207,7 +207,7 @@ Thresholds: schedule and budget bands [state them]. Colors per the Program Statu
 
 Fernhollow Systems, a fictional mid-size software company, runs a Platform Reliability portfolio of six programs: Identity Migration, Logging Consolidation, Vendor Exit, Encryption Coverage, Access Review Automation and Data Retention. All six report bi-weekly. The portfolio TPM assembles the roll-up for the VP of Platform every other Friday.
 
-### Weak
+### Unknown
 
 > **Platform Reliability: Overall Green.** The portfolio is mostly on track. Four programs are Green, one is Yellow and one is Red, which averages out to Green. There are a few dependency concerns we are watching. Vendor Exit has had some challenges. More detail in the program reports.
 
@@ -220,7 +220,7 @@ Fernhollow Systems, a fictional mid-size software company, runs a Platform Relia
 - **The cross-program problem is invisible.** "A few dependency concerns" is the shared-capacity conflict that will cost a date in April.
 - **No coverage.** The reader assumes all six reports were current and read. They were not.
 
-### Better
+### Actionable
 
 ```markdown
 # Platform Reliability Roll-Up | As of Friday, March 6 | Cadence: bi-weekly
