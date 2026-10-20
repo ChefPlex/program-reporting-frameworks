@@ -255,12 +255,12 @@ Data Retention Green -> Stale (last report February 13; counted as Stale, not Gr
 ## Open leadership asks
 | Ask | Program | Raised | Days open | Decision needed by |
 |:---|:---|:---|:---|:---|
-| Order of networking team work | Identity / Encryption | Feb 27 | 8 | March 13 |
+| Order of networking team work | Identity / Encryption | Feb 27 | 7 | March 13 |
 | Approve fallback contract extension | Vendor Exit | March 6 | 0 | March 13 |
 
 ## Coverage
 Reported on time: Identity Migration, Logging Consolidation, Vendor Exit, Encryption Coverage, Access Review Automation.
-Stale: Data Retention (last report February 13; Tomas chasing, owner on leave until March 9).
+Stale: Data Retention (last report February 13; the portfolio TPM is chasing, owner on leave until March 9).
 Not read in full: none. Drafted with AI assistance: no.
 Thresholds: schedule slip 10% / 30%, budget variance 10% / 30%. Colors per the Program Status Reporting Framework.
 ```
