@@ -6,7 +6,7 @@ A steering committee is a decision-making forum, not a status meeting. The test 
 
 ---
 
-## Weak
+## Unknown
 
 > "Encryption modernization is progressing well and most services are remediated. The Identity Platform dependency is a concern and may put the deadline at risk. We will need support from the committee and will keep you updated."
 
@@ -16,7 +16,7 @@ There is no decision here, only a status with a worry attached. The committee ca
 
 ---
 
-## Better
+## Actionable
 
 > **Decision needed:** How to close the TLS 1.0/1.1 finding on the 12 remaining services before the March 31 contractual deadline.
 >

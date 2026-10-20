@@ -209,7 +209,7 @@ Fernhollow Systems, a fictional mid-size software company, runs a Platform Relia
 
 ### Unknown
 
-> **Platform Reliability: Overall Green.** The portfolio is mostly on track. Four programs are Green, one is Yellow and one is Red, which averages out to Green. There are a few dependency concerns we are watching. Vendor Exit has had some challenges. More detail in the program reports.
+> **Platform Reliability: Overall Green.** The portfolio is mostly on track. Three programs are Green, two are Yellow and one is Red, which averages out to Green. There are a few dependency concerns we are watching. Vendor Exit has had some challenges. More detail in the program reports.
 
 ### Why This Fails
 
@@ -267,7 +267,7 @@ Thresholds: schedule slip 10% / 30%, budget variance 10% / 30%. Colors per the P
 
 ### Why This Works
 
-The [Sample Red / Yellow / Green Status](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/examples/sample-red-yellow-green-status.md) sets five questions every program update must answer: what is the status, why, what is being done, what the reader needs to do, and when the status changes. Each row in the Better table answers all five. The portfolio page adds four things a single program report cannot:
+The [Sample Red / Yellow / Green Status](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/examples/sample-red-yellow-green-status.md) sets five questions every program update must answer: what is the status, why, what is being done, what the reader needs to do, and when the status changes. Each row in the Actionable table answers all five. The portfolio page adds four things a single program report cannot:
 
 1. **Movement.** The VP sees what changed since the last page, with the prior color shown, not an arrow.
 2. **Freshness.** Data Retention is counted as Stale. It is not hiding inside the Greens, and the page says who is chasing it.

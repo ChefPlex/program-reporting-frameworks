@@ -4,7 +4,7 @@ Status colors are only useful if they mean something specific. These examples sh
 
 ---
 
-## Weak
+## Unknown
 
 **Workstream B is progressing, but there are some dependency concerns.**
 
@@ -14,7 +14,7 @@ No explicit status color. No owner. No date. No risk statement. No decision ask.
 
 ---
 
-## Better
+## Actionable
 
 **Workstream B is Yellow.** The auth team has not committed an integration date, which puts the June 15 launch at risk. Sarah is driving the dependency call with Dev by Friday. If we do not have a committed date by then, we need sponsor help to reprioritize the auth team's work.
 

@@ -178,7 +178,7 @@ The short version is intentionally plain text so it survives a paste into any to
 
 **Late status reports.** A status report that comes out after the meeting it was meant to inform is a status report for the record, not for the decision. Get it out before people need it.
 
-**Adjectives where numbers belong.** "Encryption coverage increased significantly" tells the reader nothing they can act on. "Coverage increased from 67% to 78% this month, on track for 90% by end of quarter" gives them the rate, the remaining gap, and grounds to decide whether to worry. Numbers beat adjectives everywhere, and a status report is where the substitution costs the most.
+**Adjectives where numbers belong.** "Encryption coverage increased significantly" tells the reader nothing they can act on. "Coverage increased from 67% to 78% this month, on track for 90% by end of quarter" gives them the rate, the remaining gap, and grounds to decide whether to worry. Numbers beat adjectives everywhere, and a status report is where the substitution costs the most. The figures in these examples are illustrative.
 
 **Numbers with no source.** A number is only as good as the reader's ability to check it. Every number in a status report carries three things: its **source** (the system it came from), an **as-of time**, and the **method** (what was counted and how). "78% of services encrypted (source: fleet scanner, as of Monday 09:00 UTC, services with all listeners on TLS 1.2+ out of all services in the inventory)" can be checked. "78%" cannot. Derive the number from the system of record each time rather than copying it forward from last week's report, because a restated number goes stale silently and nobody notices until two reports disagree.
 
@@ -197,3 +197,5 @@ AI work breaks some of the usual reporting habits. Three adjustments:
 ---
 
 *Version 1.0. Propose changes via pull request.*
+
+*Part of the [ChefPlex TPM portfolio](https://github.com/ChefPlex/tpm-templates/blob/main/PORTFOLIO-GUIDE.md). Maintained by [Eric White](https://www.linkedin.com/in/edwhite). Licensed under [CC BY 4.0](LICENSE).*
